@@ -60,3 +60,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamfin18&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamfin18/Hamfin18/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamfin18/Hamfin18/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hamfin18/Hamfin18/output/pacman-contribution-graph.svg">
+</picture>
