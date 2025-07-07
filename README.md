@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Banner atau GIF -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Halo,%20Saya%20Ilham%20Alfin!&fontSize=40&fontColor=ffffff" alt="Banner" />
+</p>
 
-<!--
-**Hamfin18/Hamfin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4facfe&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Tech+Content+Creator" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 Tentang Saya
+
+✨ Halo! Saya **Ilham Alfin**, seorang **Web Programmer** dari **Indoneisa**.  
+🚀 Saat ini sedang fokus di **Web Programming Mengunakan Laravel**.  
+🎯 Tujuan saya adalah **Membangun aplikasi yang fungsional dan bermanfaat bagi banyak orang**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,java)
+
+### 🖥️ Frameworks
+
+![Frameworks](https://skillicons.dev/icons?i=laravel,bootstrap,react,nodejs,express,nextjs)
+
+### 🛠️ Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma)
+
+### 🗄️ Databases
+
+![Databases](https://skillicons.dev/icons?i=mysql,postgresql)
+
+## 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamfin18&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamfin18&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamfin18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Hubungi Saya
+
+- ✉️ Email: [ilhamalfin00@gmail.com](mailto:ilhamalfin00@gmail.com)
+- 💼 LinkedIn: [Ilham Alfin](https://www.linkedin.com/in/ilhamalfin/)
+<!-- - 🌐 Website: [alamat website kamu](https://website.com) -->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamfin18&style=flat-square&color=blue" alt="Profile Views" />
+</p>
